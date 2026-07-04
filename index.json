@@ -1,10 +1,5 @@
 [
   {
-    "id": "mirapakaya",
-    "title": "Mirapakaya",
-    "artist": "S. Thaman",
-    "language": "Telugu",
-    "year": 2011,
     "cover": "albums/Mirapakaya/cover.jpg",
     "album": "albums/Mirapakaya/album.json"
   }
