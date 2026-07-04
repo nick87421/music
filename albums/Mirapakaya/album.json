@@ -11,15 +11,13 @@
       "id": 1,
       "title": "Adhigora Choodu",
       "duration": "4:18",
-      "file": "songs/adhigora_choodu.mp3",
-      "lyrics": "lyrics/adhigora_choodu.lrc"
+      "file": "songs/adhigora_choodu.mp3"
     },
     {
       "id": 2,
       "title": "Dhinaku Dhin",
       "duration": "3:52",
-      "file": "songs/dhinaku_dhin.mp3",
-      "lyrics": "lyrics/dhinaku_dhin.lrc"
+      "file": "songs/dhinaku_dhin.mp3"
     }
  ]
 } 
