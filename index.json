@@ -1,16 +1,11 @@
 [
   {
-    "id": "midnight_dreams",
-    "title": "Midnight Dreams",
-    "artist": "Alex",
-    "cover": "albums/midnight_dreams/cover.jpg",
-    "album": "albums/midnight_dreams/album.json"
-  },
-  {
-    "id": "summer_vibes",
-    "title": "Summer Vibes",
-    "artist": "Emma",
-    "cover": "albums/summer_vibes/cover.jpg",
-    "album": "albums/summer_vibes/album.json"
+    "id": "mirapakaya",
+    "title": "Mirapakaya",
+    "artist": "S. Thaman",
+    "language": "Telugu",
+    "year": 2011,
+    "cover": "albums/Mirapakaya/cover.jpg",
+    "album": "albums/Mirapakaya/album.json"
   }
 ]

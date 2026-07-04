@@ -1,0 +1,23 @@
+{
+  "id": "mirapakaya",
+  "title": "Mirapakaya",
+  "artist": "S. Thaman",
+  "language": "Telugu",
+  "year": 2011,
+  "genre": "Soundtrack",
+  "cover": "cover.jpg",
+  "songs": [
+    {
+      "id": 1,
+      "title": "Adhigora Choodu",
+      "file": "songs/adhigora_choodu.mp3",
+      "lyrics": "lyrics/adhigora_choodu.lrc"
+    },
+    {
+      "id": 2,
+      "title": "Dhinaku Dhin",
+      "file": "songs/dhinaku_dhin.mp3",
+      "lyrics": "lyrics/dhinaku_dhin.lrc"
+    }
+  ]
+}
