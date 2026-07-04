@@ -1,0 +1,16 @@
+[
+  {
+    "id": "midnight_dreams",
+    "title": "Midnight Dreams",
+    "artist": "Alex",
+    "cover": "albums/midnight_dreams/cover.jpg",
+    "album": "albums/midnight_dreams/album.json"
+  },
+  {
+    "id": "summer_vibes",
+    "title": "Summer Vibes",
+    "artist": "Emma",
+    "cover": "albums/summer_vibes/cover.jpg",
+    "album": "albums/summer_vibes/album.json"
+  }
+]
