@@ -1,0 +1,46 @@
+{
+  "id": "power",
+  "title": "Power(2014)",
+  "artist": "Chakri, Bobby, Chaks, Yadagiri",
+  "language": "Unknown",
+  "year": 2016,
+  "genre": "My3Songs.In",
+  "cover": "cover.jpg",
+  "songs": [
+    {
+      "id": 1,
+      "title": "Badmaashu Pilla-My3Songs.In",
+      "duration": "4:29",
+      "file": "songs/badmaashu_pilla.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "title": "Champesinde-My3Songs.In",
+      "duration": "3:34",
+      "file": "songs/champesinde.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "title": "Devuda Devuda-My3Songs.In",
+      "duration": "4:03",
+      "file": "songs/devuda_devuda.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "title": "Notanki-My3Songs.In",
+      "duration": "4:09",
+      "file": "songs/notanki.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "title": "Nuvvu Nenu -My3Songs.In",
+      "duration": "3:27",
+      "file": "songs/nuvvu_nenu.mp3",
+      "lyrics": ""
+    }
+  ]
+}

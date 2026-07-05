@@ -7,5 +7,14 @@
     "year": 2011,
     "cover": "albums/mirapakaya/cover.jpg",
     "album": "albums/mirapakaya/album.json"
+  },
+  {
+    "id": "power",
+    "title": "Power(2014)",
+    "artist": "Chakri, Bobby, Chaks, Yadagiri",
+    "language": "Unknown",
+    "year": 2016,
+    "cover": "albums/power/cover.jpg",
+    "album": "albums/power/album.json"
   }
 ]
