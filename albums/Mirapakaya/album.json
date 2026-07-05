@@ -11,14 +11,15 @@
       "id": 1,
       "title": "Adhigora Choodu",
       "duration": "4:18",
-      "file": "albums/Mirapakaya/songs/adhigora_choodu.mp3"
+      "file": "songs/adhigora_choodu.mp3",
+      "lyrics": "lyrics/adhigora_choodu.lrc"
     },
     {
       "id": 2,
       "title": "Dhinaku Dhin",
       "duration": "3:52",
-      "file": "albums/Mirapakaya/songs/dhinaku_dhin.mp3"
+      "file": "songs/dhinaku_dhin.mp3",
+      "lyrics": "lyrics/dhinaku_dhin.lrc"
     }
- ]
-} 
-
+  ]
+}
